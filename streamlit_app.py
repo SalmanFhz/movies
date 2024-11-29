@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Load Dataset
 st.title("Analisis Data Film")
-
+st.header("source: https://www.kaggle.com/datasets/fernandogarciah24/top-1000-imdb-dataset")
 # Baca file CSV dari lokal
 file_path = "movies_data.csv"  # Ganti dengan path file CSV Anda
 try:
